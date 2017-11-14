@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="shortcut icon" href="img/favicon.png"/>
 
+    <!-- Modificação teste para próximo commit -->
+
 </head>
 
 <body>
